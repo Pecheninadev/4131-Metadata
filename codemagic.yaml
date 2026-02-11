@@ -10,8 +10,8 @@ workflows:
         # тут мають лежати APPSTORE_ISSUER_ID, APPSTORE_KEY_ID, APPSTORE_P8, APPLE_EMAIL
         - appstore-connect
       vars:
-        IOS_BUNDLE_ID: com.matskoproj.app
-        APP_NAME: Task Roster
+        IOS_BUNDLE_ID: com.pecheninaproj.app
+        APP_NAME: Welly Path
 
     scripts:
       - name: Print working dir & contents
