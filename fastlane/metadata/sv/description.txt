@@ -1,4 +1,7 @@
-Skapa vanor som fungerar – tillsammans.
-
-Den här appen är byggd för små team, familjer, vänner och par som vill hålla fokus, motivation och ansvar som grupp, utan att tilldela en "huvudanvändare".
-Det handlar inte om individuell kontroll – appen stöder och vägleder hela teamet.
+Bygg konsekvens och framsteg – som ett team.
+Den här appen är utformad för små team, familjer eller grupper av vänner som vill slutföra uppgifter tillsammans och följa framstegen på ett enkelt och motiverande sätt.
+Det finns ingen huvudanvändare – appen kommunicerar med teamet som helhet.
+Skapa ditt team
+• Skapa ett team med upp till 6 medlemmar
+• Välj ett smeknamn och en avatar för varje medlem
+• Byt namn på teamet eller hantera medlemmar när som helst

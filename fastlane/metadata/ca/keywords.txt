@@ -1,1 +1,1 @@
-seguiment d'equips, seguiment de tasques, hàbits de grup, objectius d'equip, productivitat
+tasques d'equip, seguiment d'hàbits, hàbits d'equip, tasques familiars

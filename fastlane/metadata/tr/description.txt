@@ -1,4 +1,11 @@
-Birlikte işe yarayan alışkanlıklar oluşturun.
+Tutarlılık ve ilerleme sağlayın — bir ekip olarak.
 
-Bu uygulama, "ana" kullanıcı atamadan, grup olarak odaklanmış, motive ve sorumlu kalmak isteyen küçük ekipler, aileler, arkadaşlar ve çiftler için tasarlanmıştır.
-Bireysel kontrolle ilgili değil; uygulama tüm ekibi destekler ve yönlendirir.
+Bu uygulama, görevleri birlikte tamamlamak ve ilerlemeyi basit ve motive edici bir şekilde takip etmek isteyen küçük ekipler, aileler veya arkadaş grupları için tasarlanmıştır.
+
+Ana kullanıcı yoktur — uygulama tüm ekiple iletişim kurar.
+
+Ekibinizi oluşturun
+
+• En fazla 6 üyeli bir ekip oluşturun
+• Her üye için bir takma ad ve avatar seçin
+• Ekibi istediğiniz zaman yeniden adlandırın veya üyeleri yönetin

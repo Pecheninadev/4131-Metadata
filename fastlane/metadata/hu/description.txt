@@ -1,5 +1,8 @@
-Alkoss olyan szokásokat, amelyek működnek – együtt.
+Építs ki következetességet és haladást – csapatként.
 
-Ez az alkalmazás kis csapatok, családok, barátok és párok számára készült, akik szeretnének fókuszáltak, motiváltak és felelősségteljesek maradni csoportként anélkül, hogy „fő” felhasználót rendelnének hozzájuk.
-
-Nem az egyéni irányításról van szó – az alkalmazás támogatja és irányítja az egész csapatot.
+Ez az alkalmazás kis csapatok, családok vagy baráti társaságok számára készült, akik közösen szeretnék elvégezni a feladatokat, és egyszerű, motiváló módon szeretnék nyomon követni a haladást.
+Nincs fő felhasználó – az alkalmazás a teljes csapattal kommunikál.
+Hozza létre csapatát
+• Hozzon létre egy legfeljebb 6 tagú csapatot
+• Válasszon becenevet és avatárt minden tagnak
+• Nevezze át a csapatot, vagy kezelje a tagokat bármikor

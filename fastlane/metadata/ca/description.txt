@@ -1,4 +1,7 @@
-Crea hàbits que funcionin, junts.
-
-Aquesta aplicació està dissenyada per a equips petits, famílies, amics i parelles que volen mantenir la concentració, la motivació i la responsabilitat com a grup, sense assignar un usuari "principal".
-No es tracta de control individual: l'aplicació dóna suport i guia a tot l'equip.
+Crea consistència i progrés, en equip.
+Aquesta aplicació està dissenyada per a equips petits, famílies o grups d'amics que volen completar tasques junts i fer un seguiment del progrés d'una manera senzilla i motivadora.
+No hi ha un usuari principal: l'aplicació es comunica amb tot l'equip.
+Crea el teu equip
+• Crea un equip amb un màxim de 6 membres
+• Tria un sobrenom i un avatar per a cada membre
+• Canvia el nom de l'equip o gestiona els membres en qualsevol moment

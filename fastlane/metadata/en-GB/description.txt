@@ -1,4 +1,7 @@
-Create habits that work — together.
-
-This app is built for small teams, families, friends, and couples who want to stay focused, motivated, and responsible as a group, without assigning a “main” user.
-It’s not about individual control — the app supports and guides the entire team.
+Build consistency and progress — as a team.
+This app is designed for small teams, families, or groups of friends who want to complete tasks together and track progress in a simple, motivating way.
+There is no main user — the app communicates with the team as a whole.
+Create your team
+        •        Create a team with up to 6 members
+        •        Choose a nickname and avatar for each member
+        •        Rename the team or manage members anytime

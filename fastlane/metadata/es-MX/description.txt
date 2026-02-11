@@ -1,4 +1,7 @@
-Crea hábitos que funcionen juntos.
-
-Esta app está diseñada para equipos pequeños, familias, amigos y parejas que desean mantenerse enfocados, motivados y responsables como grupo, sin tener que asignar un usuario principal.
-No se trata de control individual: la app apoya y guía a todo el equipo.
+Fomenta la constancia y el progreso en equipo.
+Esta app está diseñada para equipos pequeños, familias o grupos de amigos que desean completar tareas juntos y seguir su progreso de forma sencilla y motivadora.
+No hay un usuario principal: la app se comunica con todo el equipo.
+Crea tu equipo
+• Crea un equipo con hasta 6 miembros
+• Elige un apodo y un avatar para cada miembro
+• Cambia el nombre del equipo o gestiona a los miembros en cualquier momento

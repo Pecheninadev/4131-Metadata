@@ -1,5 +1,13 @@
-Tạo dựng những thói quen hiệu quả — cùng nhau.
+Xây dựng sự nhất quán và tiến bộ — cùng nhau như một nhóm.
 
-Ứng dụng này được thiết kế dành cho các nhóm nhỏ, gia đình, bạn bè và các cặp đôi muốn duy trì sự tập trung, động lực và trách nhiệm với tư cách là một nhóm, mà không cần chỉ định một người dùng “chính”.
+Ứng dụng này được thiết kế dành cho các nhóm nhỏ, gia đình hoặc nhóm bạn bè muốn cùng nhau hoàn thành nhiệm vụ và theo dõi tiến độ một cách đơn giản và tạo động lực.
 
-Ứng dụng không nhằm mục đích kiểm soát cá nhân — mà hỗ trợ và hướng dẫn toàn bộ nhóm.
+Không có người dùng chính — ứng dụng giao tiếp với toàn bộ nhóm.
+
+Tạo nhóm của bạn
+
+• Tạo nhóm với tối đa 6 thành viên
+
+• Chọn biệt danh và ảnh đại diện cho mỗi thành viên
+
+• Đổi tên nhóm hoặc quản lý thành viên bất cứ lúc nào

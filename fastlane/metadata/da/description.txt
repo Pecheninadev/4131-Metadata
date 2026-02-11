@@ -1,4 +1,7 @@
-Skab vaner, der fungerer – sammen.
-
-Denne app er bygget til små teams, familier, venner og par, der ønsker at forblive fokuserede, motiverede og ansvarlige som en gruppe uden at tildele en "hovedbruger".
-Det handler ikke om individuel kontrol – appen støtter og vejleder hele teamet.
+Skab konsistens og fremskridt – som et team.
+Denne app er designet til små teams, familier eller vennegrupper, der ønsker at udføre opgaver sammen og spore fremskridt på en enkel og motiverende måde.
+Der er ingen hovedbruger – appen kommunikerer med teamet som helhed.
+Opret dit team
+• Opret et team med op til 6 medlemmer
+• Vælg et kaldenavn og en avatar for hvert medlem
+• Omdøb teamet, eller administrer medlemmer når som helst

@@ -1,4 +1,8 @@
-Luo yhdessä toimivia tapoja.
+Rakenna johdonmukaisuutta ja edistymistä – tiiminä.
 
-Tämä sovellus on suunniteltu pienille tiimeille, perheille, ystäville ja pariskunnille, jotka haluavat pysyä keskittyneinä, motivoituneina ja vastuullisina ryhmänä ilman, että heille määritetään "pääkäyttäjää".
-Kyse ei ole yksilöllisestä kontrollista – sovellus tukee ja ohjaa koko tiimiä.
+Tämä sovellus on suunniteltu pienille tiimeille, perheille tai ystäväporukoille, jotka haluavat suorittaa tehtäviä yhdessä ja seurata edistymistä yksinkertaisella ja motivoivalla tavalla.
+Sovelluksessa ei ole pääkäyttäjää – sovellus kommunikoi koko tiimin kanssa.
+Luo tiimisi
+• Luo tiimi, jossa on jopa 6 jäsentä
+• Valitse jokaiselle jäsenelle lempinimi ja avatar
+• Nimeä tiimi uudelleen tai hallinnoi jäseniä milloin tahansa

@@ -1,4 +1,5 @@
-Vytvořte si návyky, které fungují – společně.
-
-Tato aplikace je určena pro malé týmy, rodiny, přátele a páry, kteří chtějí zůstat soustředění, motivovaní a zodpovědní jako skupina, aniž by museli přiřazovat „hlavního“ uživatele.
-Nejde o individuální kontrolu – aplikace podporuje a vede celý tým.
+Budujte konzistenci a pokrok – jako tým.
+Tato aplikace je určena pro malé týmy, rodiny nebo skupiny přátel, kteří chtějí společně plnit úkoly a sledovat pokrok jednoduchým a motivujícím způsobem. Neexistuje žádný hlavní uživatel – aplikace komunikuje s celým týmem. Vytvořte si tým
+• Vytvořte tým až s 6 členy
+• Vyberte přezdívku a avatara pro každého člena
+• Přejmenujte tým nebo kdykoli spravujte členy

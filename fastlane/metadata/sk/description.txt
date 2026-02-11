@@ -1,4 +1,5 @@
-Vytvorte si návyky, ktoré fungujú – spoločne.
-
-Táto aplikácia je určená pre malé tímy, rodiny, priateľov a páry, ktorí chcú zostať sústredení, motivovaní a zodpovední ako skupina bez toho, aby im boli priradení „hlavní“ používatelia.
-Nejde o individuálnu kontrolu – aplikácia podporuje a vedie celý tím.
+Budujte konzistentnosť a pokrok – ako tím.
+Táto aplikácia je určená pre malé tímy, rodiny alebo skupiny priateľov, ktorí chcú spoločne plniť úlohy a sledovať pokrok jednoduchým a motivujúcim spôsobom. Neexistuje hlavný používateľ – aplikácia komunikuje s celým tímom. Vytvorte si tím
+• Vytvorte tím s maximálne 6 členmi
+• Vyberte prezývku a avatara pre každého člena
+• Premenujte tím alebo spravujte členov kedykoľvek

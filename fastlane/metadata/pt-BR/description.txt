@@ -1,5 +1,9 @@
-Crie hábitos que funcionem — juntos.
+Construa consistência e progresso — em equipe.
+Este aplicativo foi desenvolvido para pequenas equipes, famílias ou grupos de amigos que desejam concluir tarefas juntos e acompanhar o progresso de uma maneira simples e motivadora.
 
-Este aplicativo foi desenvolvido para pequenas equipes, famílias, amigos e casais que desejam manter o foco, a motivação e a responsabilidade em grupo, sem precisar designar um usuário "principal".
+Não há um usuário principal — o aplicativo se comunica com a equipe como um todo.
 
-Não se trata de controle individual — o aplicativo oferece suporte e orienta toda a equipe.
+Crie sua equipe
+• Crie uma equipe com até 6 membros
+• Escolha um apelido e um avatar para cada membro
+• Renomeie a equipe ou gerencie os membros a qualquer momento

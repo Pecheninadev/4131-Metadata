@@ -1,5 +1,13 @@
-Créez ensemble des habitudes efficaces.
+Travaillez ensemble, de manière constante et motivante.
 
-Cette application est conçue pour les petites équipes, les familles, les amis et les couples qui souhaitent rester concentrés, motivés et responsables en groupe, sans désigner d'utilisateur principal.
+Cette application est conçue pour les petites équipes, les familles ou les groupes d'amis qui souhaitent accomplir des tâches ensemble et suivre leurs progrès de façon simple et motivante.
 
-L'objectif n'est pas le contrôle individuel : l'application soutient et guide toute l'équipe.
+Il n'y a pas d'utilisateur principal : l'application communique avec l'ensemble de l'équipe.
+
+Créez votre équipe
+
+• Créez une équipe de 6 membres maximum
+
+• Choisissez un pseudo et un avatar pour chaque membre
+
+• Renommez l'équipe ou gérez ses membres à tout moment
