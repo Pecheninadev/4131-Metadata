@@ -1,0 +1,4 @@
+Crea hàbits que funcionin, junts.
+
+Aquesta aplicació està dissenyada per a equips petits, famílies, amics i parelles que volen mantenir la concentració, la motivació i la responsabilitat com a grup, sense assignar un usuari "principal".
+No es tracta de control individual: l'aplicació dóna suport i guia a tot l'equip.

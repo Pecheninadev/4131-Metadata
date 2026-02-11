@@ -1,0 +1,4 @@
+Luo yhdessä toimivia tapoja.
+
+Tämä sovellus on suunniteltu pienille tiimeille, perheille, ystäville ja pariskunnille, jotka haluavat pysyä keskittyneinä, motivoituneina ja vastuullisina ryhmänä ilman, että heille määritetään "pääkäyttäjää".
+Kyse ei ole yksilöllisestä kontrollista – sovellus tukee ja ohjaa koko tiimiä.
